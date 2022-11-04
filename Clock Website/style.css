@@ -61,3 +61,49 @@ h2 {
     letter-spacing: 2px;
     /* background-color: green; */
 }
+
+
+
+
+/* 
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Orbitron, sans-serif;
+    background: rgb(44, 185, 181);
+    background: radial-gradient(circle, rgba(44, 185, 181, 1) 0%, rgba(11, 48, 47, 1) 0%, rgba(0, 0, 0, 1) 100%);
+    color: white;
+    text-shadow: 0 0 10px #0FFF50;
+}
+
+#container {
+    height: 50vh;
+    width: 50vw;
+    background: #ffffff0f;
+    box-shadow: 0 0 50px black;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#time {
+    font-size: 6vw;
+    display: flex;
+    justify-content: center;
+}
+
+#day {
+    font-size: 4vw;
+    display: flex;
+    justify-content: center;
+}
+
+#date {
+    font-size: 2vw;
+    display: flex;
+    justify-content: center;
+} */
